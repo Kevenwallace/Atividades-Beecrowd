@@ -16,7 +16,7 @@ não esqueça de imprimir o fim de linha após o resultado, caso contrário, voc
 """
 
 Pi = 3.14159
-r = float(input("digite o Raio da circunferencia"))
+r = float(input(""))
 area = Pi * (r**2)
 print(f"A={area:.4f}")
 
