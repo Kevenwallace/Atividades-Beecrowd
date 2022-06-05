@@ -7,9 +7,9 @@ O arquivo de entrada contém dois valores inteiros correspondentes ao código e 
 Saída
 
 O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto decimal.
-"""
 
-""" item 1 = cachorro quente = R$ 4.00
+
+    item 1 = cachorro quente = R$ 4.00
     item 2 = X-salada        = R$ 4.50
     item 3 = X-Bacon         = R$ 5.00
     item 4 = Torrada simples = R$ 2.00
